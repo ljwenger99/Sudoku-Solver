@@ -153,6 +153,7 @@ class Sudoku:
 
     @classmethod
     def solve(cls, nums):
+        """Put it all together and solve the puzzle (if possible)!"""
         puzz = Sudoku(nums)
         puzz._open_singles()
         try:
@@ -164,3 +165,13 @@ class Sudoku:
         except TypeError:
             print("Sudoku puzzle not completely solved! Aborting program.")
         return
+
+        
+
+                    
+                
+                    
+            
+    
+        
+
