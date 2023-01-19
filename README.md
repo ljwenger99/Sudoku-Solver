@@ -1,2 +1,2 @@
 # Sudoku-Solver
-(UNFINISHED) Program to solve a given Sudoku puzzle. 
+Program to solve a given sudoku puzzle. Updates to add additional sudoku solving techniques may be occasionally added. 
