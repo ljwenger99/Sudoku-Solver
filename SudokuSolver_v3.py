@@ -1,8 +1,7 @@
 # Lucas Wenger
 # 6/3/2021
 # Sudoku Solver
-# v2 Takes the approach of eliminating candidates rather than filling in single blanks. This takes more time but can solve
-# significantly more complicated puzzles.
+# v3 adds the _lone_candidate method, allowing the program to solve more complex puzzles. 
 
 # SAMPLE PUZZLE WITH UNIQUE SOLUTION TO COPY FOR TEST:
 # "xxxxxxxxx87x3xxxxxxxxx42x95xxx29x1xxx2xxxx57xxxx1x486xxx9xxxxx876xx18xxxxxxxxxx3x"
